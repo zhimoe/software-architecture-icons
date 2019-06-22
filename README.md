@@ -9,6 +9,6 @@ tips: 画图时要善用ppt的连接线功能,保证连接点可跟随图标移�
 
 sample:
 
-![1. icons](icons.png)
+![1. icons](screenshot/icons.png?raw=true "常用图标")
 
-![2. gcp smaple](gcp.png)
+![2. gcp smaple](screenshot/gcp.png?raw=true "GCP架构图")
